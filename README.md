@@ -10,7 +10,7 @@
 
 ### Funcionalidades
 - ✅ Reproducción de audio MP3
-- ✅ Lista simply enlazada con operaciones CRUD
+- ✅ Lista simple enlazada con operaciones CRUD
 - ✅ Ordenamiento con MergeSort
 - ✅ Interfaz estilo Spotify
 - ✅ Control de volumen y navegación
