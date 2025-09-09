@@ -17,7 +17,7 @@
 
 ### 🚀 Instalación
 ```bash
-git clone https://github.com/EstructuraDatos2024/spotify-linked-list-player.git
-cd spotify-linked-list-player
+git clone https://github.com/estructuradatos2025/Grupo2-Competencia-Estructura-datos-Playlist.git
+cd Grupo2-Competencia-Estructura-datos-Playlist
 pip install -r requirements.txt
 python src/main.py
